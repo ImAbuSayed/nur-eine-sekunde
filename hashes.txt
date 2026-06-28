@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nur eine Sekunde
+
+This log tracks the cryptographic history and versioning for the song **Nur eine Sekunde** (nur-eine-sekunde).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T14:15:47.490448 | `v1` | `6bff83abc097dfad8e0b0d08a7304b04fdac388f3970de07dd2d3dfeec831ae6` | `60223848a9d8e693e1c5f2081543f2b429ee1d17a81df24293980add41bf6611` | `2026-06-28_nur-eine-sekunde-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

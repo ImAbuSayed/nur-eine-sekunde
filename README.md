@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nur-eine-sekunde/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Nur eine Sekunde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nur-eine-sekunde/) |
+| **Get License** | [Official Music Licensing for Nur eine Sekunde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nur-eine-sekunde/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6bff83abc097dfad8e0b0d08a7304b04fdac388f3970de07dd2d3dfeec831ae6` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
