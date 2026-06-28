@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nur-eine-sekunde/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Nur eine Sekunde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nur-eine-sekunde/) |
+| **Get License** | [Secure Licensing Rights for Nur eine Sekunde](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nur-eine-sekunde/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, die Stadt ist laut, doch ich hör' nur deinen Herzschlag, yeah
+> Steig ein in den Drop-Top, Baby, lass uns durch die Nacht fahr'n
+> Dein Blick zieht mich an, wie ein Magnet in der Dunkelheit
+> Nur wir zwei im Neonlicht, vergiss mal Raum und Zeit
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
